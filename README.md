@@ -1,7 +1,13 @@
 # osxcol_kibana
 bunch of kibana searches w/ osxcollector data
 
-./logstash -f logstash_ingest.conf
+/usr/bin/python2.7 osxcollector.py on target
+
+ship back osxcollector JSON
+
+install ES + Kibana (brew install elasticsearch, kibana && `elasticsearch` && `kibana`)
+
+edit config && ./logstash -f logstash_ingest.conf
 
 import searches.json into the kibana dashboard
 
