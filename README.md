@@ -1,7 +1,7 @@
 # osxcol_kibana
 bunch of kibana searches w/ osxcollector data
 
-/usr/bin/python2.7 osxcollector.py on target
+/usr/bin/python2.7 osxcollector.py on target (https://github.com/Yelp/osxcollector)
 
 ship back osxcollector JSON
 
