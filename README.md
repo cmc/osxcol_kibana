@@ -22,3 +22,7 @@ Mozilla - Input History
 OSX - QuarantineEvents
 
 Safari Data - WIP
+
+Installed Applications
+
+Startup - General
